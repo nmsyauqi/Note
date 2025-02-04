@@ -1,0 +1,23 @@
+* {
+    font-family: tahoma;
+    background-color: black;
+    text-align: justify;
+}
+
+.poin {color: blue;}
+#link {color: blueviolet;}
+p>span {font-size: 30px};
+h1~p {text-align: justify;}
+.judul {
+    color: crimson
+    font-size: 100px
+    font-family: times new roman;
+}
+h1 {
+    color: red;
+    padding: 10px;
+    fint-size: 50px
+}
+h2 {color: green;}
+p {padding: 5px;}
+.note {color: brown;}
