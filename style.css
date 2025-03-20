@@ -2,8 +2,33 @@
     font-family: erta;
     background-color: black;
     text-align: justify;
+    margin: 0;
+    padding: 0;
 }
-
+nav {
+    Background: black;
+    padding: 1rem;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+}
+nav ul li a:hover {
+    bgcolor: #575757;
+    border-radius: 5px;
+}
 .poin {color: blue;}
 #link {color: blueviolet;}
 p>span {font-size: 30px};
