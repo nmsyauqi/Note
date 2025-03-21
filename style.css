@@ -7,7 +7,7 @@
 }
 @font-face {
     font-family: erta;
-    src: "erta-regular.otf" format(opentype);
+    src: "erta-regular.otf" format("opentype");
 }
 body {
     font-family: erta-regular, sans-serif;
