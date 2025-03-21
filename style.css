@@ -1,9 +1,16 @@
 * {
-    font-family: erta;
+    font-family: calibri;
     background-color: black;
     text-align: justify;
     margin: 0;
     padding: 0;
+}
+@font-face {
+    font-family: erta;
+    src: "erta-regular.otf" format(opentype);
+}
+body {
+    font-family: erta-regular, sans-serif;
 }
 nav {
     Background: black;
