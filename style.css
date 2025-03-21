@@ -38,6 +38,9 @@ h1~p {text-align: justify;}
     font-size: 100px
     font-family: times new roman;
 }
+i {
+    font-family:tahoma;
+}
 h1 {
     color: red;
     padding: 10px;
